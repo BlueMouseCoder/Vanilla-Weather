@@ -6,6 +6,8 @@ h1 {
 
 ul {
   list-style: none;
+  font-size: 18px;
+  padding-left: 0;
 }
 
 .primary-information {
@@ -15,6 +17,6 @@ ul {
 .box {
   border: solid black 1px;
   margin-top: 20px;
-  max-width: 600px;
-  padding: 10px;
+  max-width: 550px;
+  padding: 10px 40px;
 }
